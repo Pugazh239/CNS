@@ -61,5 +61,11 @@ int main()
 
 
 OUTPUT :-
-<img width="1532" height="688" alt="478931998-65e0b157-f5c0-40a5-a90c-253743a1e430" src="https://github.com/user-attachments/assets/bafe9ab4-c884-4376-bc55-b63bd4fcc3db" />
+
+<img width="810" height="287" alt="image" src="https://github.com/user-attachments/assets/cf6f96ad-e97e-46c6-9399-dc5f1d088fcb" />
+
+
+Result :
+
+Program executed successfully
 
